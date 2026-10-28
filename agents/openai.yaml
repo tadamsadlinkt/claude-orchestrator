@@ -1,0 +1,4 @@
+interface:
+  display_name: "Claude Orchestrator"
+  short_description: "Delegate to Opus 5.5, Opus 5, or Fable 5.1"
+  default_prompt: "Use $claude-orchestrator to delegate this task to Claude, then review and verify the result."
